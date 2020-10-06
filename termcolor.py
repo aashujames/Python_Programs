@@ -1,0 +1,2 @@
+import termcolor
+help(termcolor)
